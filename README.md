@@ -75,8 +75,7 @@ En actividad están todas las interacciones que han realizado los usuarios, es a
 
 **URL:**
 - www.atenea.ml
-
-***PROYECTO EN PROGRESO***
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Segunda étapa, sistema escalable: 
 
 **Integrantes:**
