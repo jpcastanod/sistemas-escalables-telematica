@@ -96,10 +96,10 @@ posteriormente se crean 4 tipos de subredes en las cuales encontramos 2 privadas
 ### **route tables**
 ![WhatsApp Image 2021-05-20 at 14 05 29](https://user-images.githubusercontent.com/35698081/119044464-d5918100-b97f-11eb-8c9f-440ff7257104.jpeg)
 
-### **se asocia el nat y el subnet**
+### **se asocio el NAT con el SUBNET privado ya que por si solo no tiene salida a internet, este funciona como un intermediario para su conexión**
 ![WhatsApp Image 2021-05-20 at 14 06 11](https://user-images.githubusercontent.com/35698081/119044602-0671b600-b980-11eb-8162-727484d30865.jpeg)
 
-### **montamos el internet gateways**
+### **montamos el internet gateways el cual es la conexion a internet de las cosas que hay en el vpc**
 ![WhatsApp Image 2021-05-20 at 14 06 23 (1)](https://user-images.githubusercontent.com/35698081/119044846-53558c80-b980-11eb-8c45-f2f4f6a4ce17.jpeg)
 
 ### **posteriormente se realiza la asociacion del internet gateway y el subnet**
@@ -111,7 +111,7 @@ posteriormente se crean 4 tipos de subredes en las cuales encontramos 2 privadas
 ### **se realiza las instancias NAT para permitir a las privadas acceso a internet**
 ![WhatsApp Image 2021-05-20 at 14 07 40](https://user-images.githubusercontent.com/35698081/119045212-c4953f80-b980-11eb-8065-6937d8cce69f.jpeg)
 
-### **Bastion**
+### **la funcionalidad del Bastion es ofrecer seguridad a la red interna, por lo que ha sido especialmente configurado para la recepción de ataques.**
 ![WhatsApp Image 2021-05-20 at 14 07 49](https://user-images.githubusercontent.com/35698081/119045395-07571780-b981-11eb-8a8f-0afb5692b4ae.jpeg)
 
 ### **Base de datos**
@@ -123,19 +123,19 @@ posteriormente se crean 4 tipos de subredes en las cuales encontramos 2 privadas
 ### **Web server, aqui se almacena la imagen (las plantillas por si se caen)**
 ![WhatsApp Image 2021-05-20 at 14 08 51](https://user-images.githubusercontent.com/35698081/119045661-5c932900-b981-11eb-8f62-e845538b52cd.jpeg)
 
-### **Balanceador de carga**
+### **El Balanceador de carga direcciona a un cliente al servidor web que se encuentre con mayor disponibilidad entre los que cuentan con el mismo contenido**
 ![WhatsApp Image 2021-05-20 at 14 09 08](https://user-images.githubusercontent.com/35698081/119045726-73398000-b981-11eb-9d3c-f5d1db229ee5.jpeg)
 
-### **Configuración de lanzamiento**
+### **Configuración de lanzamiento para que posteriormente en Auto Scaling suba las maquinas**
 ![WhatsApp Image 2021-05-20 at 14 09 21](https://user-images.githubusercontent.com/35698081/119045825-92381200-b981-11eb-8fb4-f9abb31b7bc0.jpeg)
 
-### **Auto scaling**
+### **Auto scaling realiza la accion de subir las maquinas**
 ![WhatsApp Image 2021-05-20 at 14 09 34](https://user-images.githubusercontent.com/35698081/119045869-9e23d400-b981-11eb-9494-f37f6712643f.jpeg)
 
 ### **DNS almacenados en cloudflare**
 ![image](https://user-images.githubusercontent.com/35698081/119046721-a9c3ca80-b982-11eb-9a78-d89e86c79eb3.png)
 
-### **certificado de seguridad SSL**
+### **certificado de seguridad SSL para demostrar al usuario final que la pagina a la cual ingresara es segura y confiable**
 ![image](https://user-images.githubusercontent.com/35698081/119047171-2f477a80-b983-11eb-96df-f779290952ea.png)
 
 # CARACTERISTICAS FUNCIONALES
