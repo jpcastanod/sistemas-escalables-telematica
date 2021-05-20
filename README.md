@@ -96,43 +96,43 @@ posteriormente se crean 4 tipos de subredes en las cuales encontramos 2 privadas
 ### **route tables**
 ![WhatsApp Image 2021-05-20 at 14 05 29](https://user-images.githubusercontent.com/35698081/119044464-d5918100-b97f-11eb-8c9f-440ff7257104.jpeg)
 
-### **se asocia el nat y el subnet **
+### **se asocia el nat y el subnet**
 ![WhatsApp Image 2021-05-20 at 14 06 11](https://user-images.githubusercontent.com/35698081/119044602-0671b600-b980-11eb-8162-727484d30865.jpeg)
 
-### ** montamos el internet gateways**
+### **montamos el internet gateways**
 ![WhatsApp Image 2021-05-20 at 14 06 23 (1)](https://user-images.githubusercontent.com/35698081/119044846-53558c80-b980-11eb-8c45-f2f4f6a4ce17.jpeg)
 
-### ** posteriormente se realiza la asociacion del internet gateway y el subnet**
+### **posteriormente se realiza la asociacion del internet gateway y el subnet**
 ![WhatsApp Image 2021-05-20 at 14 07 00](https://user-images.githubusercontent.com/35698081/119044922-68322000-b980-11eb-873a-5921b4cc1fbe.jpeg)
 
-### **se crea el security Group **
+### **se crea el security Group**
 ![WhatsApp Image 2021-05-20 at 14 07 20](https://user-images.githubusercontent.com/35698081/119045030-8a2ba280-b980-11eb-9932-0be075e4e89f.jpeg)
 
-### **se realiza las instancias NAT para permitir a las privadas acceso a internet **
+### **se realiza las instancias NAT para permitir a las privadas acceso a internet**
 ![WhatsApp Image 2021-05-20 at 14 07 40](https://user-images.githubusercontent.com/35698081/119045212-c4953f80-b980-11eb-8065-6937d8cce69f.jpeg)
 
-### ** Bastion**
+### **Bastion**
 ![WhatsApp Image 2021-05-20 at 14 07 49](https://user-images.githubusercontent.com/35698081/119045395-07571780-b981-11eb-8a8f-0afb5692b4ae.jpeg)
 
-### ** Base de datos**
+### **Base de datos**
 ![WhatsApp Image 2021-05-20 at 14 08 19](https://user-images.githubusercontent.com/35698081/119045417-0f16bc00-b981-11eb-991e-b9a0d9af583f.jpeg)
 
-### ** Sistema de archivos**
+### **Sistema de archivos**
 ![WhatsApp Image 2021-05-20 at 14 08 34](https://user-images.githubusercontent.com/35698081/119045548-3bcad380-b981-11eb-8233-e7d75175259a.jpeg)
 
-### **Web server, aqui se almacena la imagen (las plantillas por si se caen) **
+### **Web server, aqui se almacena la imagen (las plantillas por si se caen)**
 ![WhatsApp Image 2021-05-20 at 14 08 51](https://user-images.githubusercontent.com/35698081/119045661-5c932900-b981-11eb-8f62-e845538b52cd.jpeg)
 
-### **Balanceador de carga **
+### **Balanceador de carga**
 ![WhatsApp Image 2021-05-20 at 14 09 08](https://user-images.githubusercontent.com/35698081/119045726-73398000-b981-11eb-9d3c-f5d1db229ee5.jpeg)
 
 ### **Configuración de lanzamiento**
 ![WhatsApp Image 2021-05-20 at 14 09 21](https://user-images.githubusercontent.com/35698081/119045825-92381200-b981-11eb-8fb4-f9abb31b7bc0.jpeg)
 
-### **Auto scaling **
+### **Auto scaling**
 ![WhatsApp Image 2021-05-20 at 14 09 34](https://user-images.githubusercontent.com/35698081/119045869-9e23d400-b981-11eb-9494-f37f6712643f.jpeg)
 
-### **DNS almacenados en cloudflare **
+### **DNS almacenados en cloudflare**
 ![image](https://user-images.githubusercontent.com/35698081/119046721-a9c3ca80-b982-11eb-9a78-d89e86c79eb3.png)
 
 ### **certificado de seguridad SSL**
