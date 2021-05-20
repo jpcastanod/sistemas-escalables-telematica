@@ -68,6 +68,11 @@ En actividad están todas las interacciones que han realizado los usuarios, es a
 
 ![actividades](images/img11.jpg)
 
+## Segunda étapa, sistema escalable: 
+
+
+
+
 **Integrantes:**
 - Juan Pablo Castaño Duque: jpcastand@eafit.edu.co
 - Mateo Montes Loaiza: mmontesl1@eafit.edu.co
