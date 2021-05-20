@@ -148,5 +148,22 @@ posteriormente se crean 4 tipos de subredes en las cuales encontramos 2 privadas
 A la hora de montar la estructura del WordPress, y pensando en los requisitos de lo que debía ser el sistema, “una comunidad de aprendizaje” en la cual se puedan crear grupos y compartir información entre estudiantes en diferentes materias de interés.
 
 ATENEA implemento una red social de aprendizaje en la cual puedes contar con perfiles, grupos, interacción con otros usuarios, mensajería, entre otras funcionalidades, para esta se utilizó diversos pluggins de WordPress, entre ellos BUDDYPRESS para montar la red social, WOOSTIFY el cual es el tema inicial para que la vista sea un poco más agradable para el usuario, Activity Plus Reloaded for BuddyPress para subir archivos a los grupos y BuddyPress Edit Activity para realizar ediciones a los contenidos subidos previamente. 
-![image](https://user-images.githubusercontent.com/35698081/119047657-d3312600-b983-11eb-8f09-60e8dac07740.png)
 
+*Existen diversos grupos los cuales tienen distintos tipos de interes, como se muestra en la imagen*
+
+![image](https://user-images.githubusercontent.com/35698081/119049077-ba297480-b985-11eb-8727-e68bf429c58b.png)
+
+*En estos grupos se pueden realizar publicaciones, montar imaneges, archivos, textos, videos entre otras* 
+
+![image](https://user-images.githubusercontent.com/35698081/119049313-01176a00-b986-11eb-867d-ef1c5a6a6907.png)
+
+*hay un apartado el cual muestra todos los miembros de la comunidad*
+
+![image](https://user-images.githubusercontent.com/35698081/119049476-36bc5300-b986-11eb-9189-115ab401e6d9.png)
+
+*Actividad reciente*
+![image](https://user-images.githubusercontent.com/35698081/119049580-55bae500-b986-11eb-86ad-607c10e1ac94.png)
+
+*Un apartado Perfil el cual se puede personalizar y se muestra notificaciones, solicitudes de amistad, comentarios de mis publicaciones, entre otras*
+
+![image](https://user-images.githubusercontent.com/35698081/119049810-a16d8e80-b986-11eb-8f75-0ff9bf44b613.png)
